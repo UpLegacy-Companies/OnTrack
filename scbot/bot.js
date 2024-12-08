@@ -115,7 +115,7 @@ client.on('interactionCreate', async interaction => {
                         .setColor('#0898cf')  // Custom color
                         .setTitle(`Activity Data for ${username}`)
                         .setDescription(`${username} has been active for ${row.time} minutes.`)
-                        .setFooter({ text: 'Activity Tracker' })
+                        .setFooter({ text: 'Activity Tracker by Uplegacy | contact@uplegacy.org' })
                         .setTimestamp();
 
                     interaction.reply({ embeds: [embed] });
