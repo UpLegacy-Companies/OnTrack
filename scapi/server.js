@@ -5,7 +5,7 @@ const sqlite3 = require('sqlite3').verbose();
 const app = express();
 app.use(bodyParser.json());
 
-// Connect to the SQLite database
+// Connect to the SQLite database. Replace the file name below with your database directory location.
 const db = new sqlite3.Database('/home/admin/projects/scdb/activity.db', (err) => {
     if (err) {
         console.error(err.message);
