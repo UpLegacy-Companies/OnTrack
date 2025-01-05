@@ -1,6 +1,6 @@
 # OnTrack
 
-Hello everyone! I am Cam, a little known developer on the Roblox platform. I currently run UpLegacy Companies, which is a Roblox development and asset management firm. We have been providing many cheap Roblox group solutions and services. And with the recent increase in popularity in our Activity Tracking module I decided to release a **SELF-HOSTED** version to the public! ( This is actually my first community resource post :) )
+Hello everyone! I am Deo, a little known developer on the Roblox platform. I currently run UpLegacy Companies, which is a Roblox development and asset management firm. We have been providing many cheap Roblox group solutions and services. And with the recent increase in popularity in our Activity Tracking module I decided to release a **SELF-HOSTED** version to the public! ( This is actually my first community resource post :) )
 
 The following features are included with OnTrack:
 
