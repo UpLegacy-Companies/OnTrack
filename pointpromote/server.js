@@ -7,7 +7,7 @@ const PORT = 3000;
 
 // Replace with your group's ID and bot credentials
 const GROUP_ID = GROUP_ID; // Replace with your group ID
-const COOKIE = "YOUR_TOKEN";
+const COOKIE = "YOUR_TOKEN"; // You may need to VPN into the country that your server is hosted in.
 
 app.use(bodyParser.json());
 
